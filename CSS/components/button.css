@@ -1,0 +1,30 @@
+.btn-orange {
+	background-color: #D77C04;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: whitesmoke;
+	font-weight: bold;
+}
+
+.btn-blue {
+	background-color: #00BCF9;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: whitesmoke;
+	font-weight: bold;
+}
+.btn-yellow {
+	background-color: #FEE803;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+}
+
+.btn-black {
+	background-color: black;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: whitesmoke;
+	font-weight: bold;
+}

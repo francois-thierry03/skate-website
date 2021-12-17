@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed&family=Original+Surfer&display=swap');
+
+
+@import url('components/container.css');
+@import url('components/Kader.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+
+
+body{
+  font-family: 'Original Surfer', cursive;
+  font-size: 20px;
+  margin: 0px;
+  text-align: justify;
+ }
+ 
+
+  h1, h2, h3, h4{
+  font-family: 'Fira Sans Condensed', cursive;
+  font-weight:bold ; 
+  font-size: 23px;
+  line-height: 45px;   
+  text-align: justify;  
+}
+
+a {
+  text-decoration: none;
+}
